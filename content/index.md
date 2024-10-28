@@ -1,6 +1,30 @@
 ---
-title: Welcome to Quartz
+title: About
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## こちらは[Obsidian](https://obsidian.md/)というソフトウェアを使ってMarkdown形式書いています。
+
+## Obsidian->ウェブサイト変換は[Quarts](https://quartz.jzhao.xyz/).
+
+## ウェブサイトは[Github Pages](https://pages.github.com/).
+
+全部英語です。すみません。
+
+## 以下宣伝みたいなもの
+
+全部フリー（無料）で使えます。
+
+Obsidianの特徴はリンクとグラフです。（個人的意見）
+
+単語にリンクを作ることでクリックした際にそちらのページに飛ぶことができます。
+
+グラフはそれを可視化します。
+
+普通のメモとしてもかなりわかりやすいです。
+
+QuartsとGithub Pagesは多少の知識があれば楽ですが説明通りにやっていけば問題なくできます。
+
+宣伝もどき終了。自分は上記のものどれも関わっていないですが素晴らしいものなので使用／支援してあ
+げてください。
+
+# では、どうぞ！[[目次]]
